@@ -4,7 +4,7 @@
 
  * **Professor**: Thiago Alves Rocha - http://thiagoalvesifce.github.io
  * **Semestre**: 2016.1
- * **[Matriz Curricular](https://qacademico.ifce.edu.br/qacademico/index.asp?t=1012&TIPO_BUSCA_PLANO_ENSINO=PAUTA&CODIGO_BUSCA_PLANO_ENSINO=243711)**
+ * **[Ementa](UDM272-Linguagens_de_Programacao.pdf)**
 
 ## Material
 
@@ -15,4 +15,4 @@
 
 ## Informações legais
 
-Utilize o material para aprofundar seus conhecimentos. Se for usar em algum lugar, referencie.
+Utilize o material para aprofundar seus conhecimentos. Quando cabível, referencie.
